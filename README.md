@@ -1,2 +1,2 @@
-# lua-scripting
+# Lua Scripting
 Lua Scripting
